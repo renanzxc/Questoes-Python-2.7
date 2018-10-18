@@ -1,0 +1,31 @@
+a=raw_input()
+
+if(a=="vertebrado"):
+    b=raw_input()
+    if(b=="ave"):
+        c=raw_input()
+        if(c=="carnivoro"):
+            print"aguia"
+        if(c=="onivoro"):
+            print"pomba"
+    if(b=="mamifero"):
+        c=raw_input()
+        if(c=="onivoro"):
+            print"homem"
+        if(c=="herbivoro"):
+            print"vaca"
+
+elif(a=="invertebrado"):
+    b=raw_input()
+    if(b=="inseto"):
+        c=raw_input()
+        if(c=="hematofago"):
+            print"pulga"
+        if(c=="herbivoro"):
+            print"lagarta"
+    if(b=="anelideo"):
+        c=raw_input()
+        if(c=="hematofago"):
+            print"sanguessuga"
+        if(c=="onivoro"):
+            print"minhoca"
