@@ -3,4 +3,4 @@ B = input()
 
 X=A+B
 
-print"X =",X
+print "X =",X
