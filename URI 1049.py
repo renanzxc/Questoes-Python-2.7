@@ -14,7 +14,7 @@ if(a=="vertebrado"):
             print"homem"
         if(c=="herbivoro"):
             print"vaca"
-
+            
 elif(a=="invertebrado"):
     b=raw_input()
     if(b=="inseto"):
