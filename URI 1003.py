@@ -3,4 +3,4 @@ B=input()
 
 SOMA=A+B
 
-print"SOMA =",SOMA
+print "SOMA =",SOMA
